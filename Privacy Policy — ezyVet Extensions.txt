@@ -1,0 +1,28 @@
+﻿Privacy Policy — ezyVet Extensions
+Last updated: 12 October 2026
+1. Overview
+The ezyVet Notes Alert and ezyVet Financial Comments Chrome extensions are designed to assist authorised veterinary hospital staff when using the ezyVet practice management system.
+These extensions help staff access relevant client, patient and financial information within the ezyVet interface.
+2. Information Accessed
+The extensions may access information displayed within the ezyVet system, including:
+* Client contact notes.
+* Animal or patient notes.
+* Notes marked as important.
+* Existing client comments displayed in the financial section, where applicable.
+The extensions only access information necessary to provide their intended functionality.
+3. Collection and Sharing of Information
+The extensions do not independently collect, sell, share or transmit personal information to external parties.
+Information displayed by the extensions remains within the ezyVet interface and the user's browser. The extensions do not send information to third-party analytics services or advertising networks.
+4. Data Storage
+The extensions do not intentionally store client, patient or financial information outside the ezyVet system.
+Any information displayed by the extensions is obtained from the ezyVet interface and is not intended to create a separate database of client or patient information.
+5. Permissions
+The extensions require permission to operate on the hospital's ezyVet website. This access is necessary to identify the relevant record information and display it in the intended location.
+The extensions are not intended to access unrelated websites or browser activity.
+6. Information Security
+The extensions are intended for use by authorised hospital staff as part of their normal ezyVet workflow. Users must continue to follow the hospital's confidentiality, access-control and information-security procedures.
+The extensions do not replace the security controls provided by ezyVet or the hospital.
+7. Changes to This Policy
+This privacy policy may be updated if the extensions' functionality or data practices change. The updated policy will be made available alongside the extension listing where appropriate.
+8. Contact
+For questions about these extensions or this privacy policy, please contact the hospital's designated extension maintainer.
